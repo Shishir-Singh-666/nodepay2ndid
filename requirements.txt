@@ -1,0 +1,6 @@
+aiohttp
+curl-cffi
+fake-useragent
+loguru
+requests
+colorama
